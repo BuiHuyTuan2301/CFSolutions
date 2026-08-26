@@ -12,7 +12,7 @@ This repository contains my personal solutions to algorithmic programming proble
 
 ---
 
-## 📝 Solutions List
+## 📝 Solutions List (From 26/08/2026)
 
 | ID | Problem Name | Rating | Tags | Solution |
 | :---: | :--- | :---: | :--- | :---: |
