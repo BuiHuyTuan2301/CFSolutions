@@ -16,7 +16,7 @@ This repository contains my personal solutions to algorithmic programming proble
 
 | ID | Problem Name | Rating | Tags | Solution |
 | :---: | :--- | :---: | :--- | :---: |
-| **1535D** | Playoff Tournament | 1800 | DP | [1535D_CF.cpp] |
-| **--** | Sliding Window Template | - | Two Pointers | [Sliding_window.cpp]|
-| **--** | DSU Template | - | DSU | [DSU.cpp] |
+| **1535D** | Playoff Tournament | 1800 | DP | [1535D_CF.cpp](./1535D_CF.CPP) |
+| **--** | Sliding Window Template | - | Two Pointers | [Sliding_window.cpp](./Sliding_window.cpp) |
+| **--** | DSU Template | - | DSU | [DSU.cpp](./DSU.cpp) |
 ---
